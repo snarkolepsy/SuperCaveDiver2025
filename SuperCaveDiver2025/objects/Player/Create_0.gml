@@ -17,10 +17,10 @@ jspd = 16;
 grav = 1.5;
 
 // Beginning state when game begins
-//state = move_state;
+state = move_state;
 
 // Get the input from the keyboard or compatible controller
-//get_input();
+get_input();
 
 // Audio emitter
 //audio_em = audio_emitter_create();
